@@ -1,85 +1,62 @@
-# 👋 Hi, I'm Ivan (bxnnybanned)
+# Hi, I'm Ivan 👨‍💻
 
-💻 IT Student | Aspiring Software Developer  
-📍 Philippines  
-🚀 Passionate about building systems, apps, and real-world solutions  
+IT Student from the Philippines  
+Aspiring Full-Stack Developer focused on building practical systems and applications.
 
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **VitalKey System & Kiosk App**
-- 🧟 Developing an **AR Zombie Shooter Game**
-- 💡 Interested in **System Development, UI/UX, and Backend**
-- 🎯 Goal: Become a **Full-Stack Developer**
+- 🔭 Currently developing **VitalKey System & Kiosk Application**
+- 💡 Interested in **Backend Development, System Design, and UI/UX**
+- 🎯 Goal: Build scalable and user-focused software solutions
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
+- C#, JavaScript, SQL, Dart, Python, C, Java
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**
+- React, Tailwind CSS
 
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Backend & Tools**
+- Node.js, Python, MySQL, Git
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔐 VitalKey Kiosk System
-- 🖥 Built with React + Tailwind
-- 🔐 Authentication-based system
-- 📊 Clean UI for healthcare/verification use
+- Built with React and Tailwind CSS  
+- Authentication and verification system  
+- Designed for clean and efficient user interaction  
 
-### 📱 VitalKey Mobile App
-- 📲 Built with Dart / Flutter
-- 🔗 Connected with backend services
-- 💡 Focus on usability & accessibility
-
-### 🧟 AR Zombie Shooter Game
-- 🎮 Mobile Augmented Reality Game
-- 🌍 Real-world environment gameplay
-- 🔫 Wave-based survival mechanics
+### 📱 VitalKey Mobile Application
+- Developed using Dart / Flutter  
+- Integrated with backend services  
+- Focused on accessibility and usability  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&hide_border=true)
 
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bxnnybanned&layout=compact&theme=tokyonight)
-
----
-
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bxnnybanned&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bxnnybanned&layout=compact&hide_border=true)
 
 ---
 
 ## 🎯 Current Focus
-- 🚀 Building scalable systems
-- 📡 API integration
-- 🎨 Improving UI/UX design
+- Backend development and API integration  
+- Improving system architecture  
+- Writing clean and maintainable code  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: (optional)
+## 📫 Contact
+- Email: dinglyivan@gmail.com
 
 ---
 
-⭐ *"Code. Build. Improve. Repeat."*
+> Building systems that solve real-world problems.
