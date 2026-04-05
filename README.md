@@ -1,15 +1,20 @@
 <h1 align="center">Ivan</h1>
+
 <p align="center">
   IT Student from the Philippines • Aspiring Full-Stack Developer
 </p>
 
 <p align="center">
-  Focused on building practical systems, clean interfaces, and reliable backend solutions.
+  Building practical systems, clean interfaces, and reliable backend solutions.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,python,java,c,dart" />
 </p>
 
 ---
 
-## About
+## About Me
 
 - Currently working on **VitalKey System** and **Kiosk Application**
 - Interested in **Backend Development**, **System Design**, and **UI/UX**
@@ -17,33 +22,29 @@
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,python,java,c,dart" />
-</p>
-
----
-
-## Selected Projects
+## Featured Projects
 
 ### VitalKey Kiosk System
 - Built with **React** and **Tailwind CSS**
 - Includes authentication and verification workflows
-- Designed for a smooth and efficient user experience
+- Designed for clean and efficient user interaction
 
 ### VitalKey Mobile Application
 - Developed with **Flutter / Dart**
-- Connected with backend services
+- Integrated with backend services
 - Focused on accessibility and usability
 
 ---
 
-## GitHub Overview
+## GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&hide_border=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnnybanned&layout=compact&hide_border=true&theme=transparent" height="150" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnnybanned&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxnnybanned&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -52,18 +53,20 @@
 
 - Backend development and API integration
 - Improving system architecture
-- Writing clean, maintainable code
+- Writing clean and maintainable code
 
 ---
 
 ## Contact
 
-<p align="left">
+<p align="center">
   <a href="mailto:dinglyivan@gmail.com">
-    <img src="https://img.shields.io/badge/email-contact-informational?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-dinglyivan%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="left"><i>Building systems that solve real-world problems.</i></p>
+<p align="center">
+  <i>Building systems that solve real-world problems.</i>
+</p>
