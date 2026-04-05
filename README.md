@@ -1,4 +1,4 @@
-<h1 align="center">Ivan</h1>
+<h1 align="center">Ivan Dingly</h1>
 
 <p align="center">
   IT Student from the Philippines • Aspiring Full-Stack Developer
