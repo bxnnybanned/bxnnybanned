@@ -1,42 +1,101 @@
 <h1 align="center">Ivan Dingly</h1>
 
+<h3 align="center">IT Student • Full-Stack Developer</h3>
+
 <p align="center">
-  IT Student from the Philippines • Aspiring Full-Stack Developer
+  Building practical applications with clean interfaces, structured backends, and reliable system architecture.
 </p>
 
 <p align="center">
-  Building practical systems, clean interfaces, and reliable backend solutions.
+  <img src="https://skillicons.dev/icons?i=cs,js,python,java,c,dart,react,flutter,nodejs,mysql,tailwind,git,github,vscode" />
 </p>
 
-<p align="center">
+---
+
+## 👨‍💻 About Me
+
+I'm an IT student from the Philippines with a strong interest in full-stack and backend development. I enjoy building systems that combine web, mobile, hardware, and database technologies.
+
+* 🔭 Currently developing the **VitalKey System**
+* 💻 Working with **React, Flutter, Node.js, Python, and MySQL**
+* ⚙️ Interested in **Backend Development, APIs, System Architecture, and IoT**
+* 📱 Building both **web and mobile applications**
+* 🌱 Continuously improving my development and problem-solving skills
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 VitalKey System
+
+A healthcare-focused system designed to connect multiple applications and services into one platform.
+
+**System Components**
+
+* VitalKey Kiosk
+* Patient Mobile Application
+* Doctor Portal
+* Medicine Inventory
+* Admin Panel
+
+**Technologies**
+
+`React` `Tailwind CSS` `Flutter` `Dart` `Node.js` `Python` `MySQL`
+
+---
+
+### 🖥️ VitalKey Kiosk
+
+A kiosk application designed for patient health monitoring and information management.
+
+* Patient authentication and verification
+* Health sensor integration
+* QR-based workflows
+* Patient information management
+* Backend and database integration
+
+---
+
+### 📱 VitalKey Mobile Application
+
+A Flutter-based mobile application that connects patients with the VitalKey platform.
+
+* Built with **Flutter & Dart**
+* Connected to backend APIs
+* Patient account and health information access
+* Designed for simple and accessible mobile use
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
   <img src="https://skillicons.dev/icons?i=cs,js,python,java,c,dart" />
 </p>
 
----
+### Frontend & Mobile
 
-## About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css" />
+</p>
 
-- Currently working on **VitalKey System** and **Kiosk Application**
-- Interested in **Backend Development**, **System Design**, and **UI/UX**
-- Aiming to build software that is simple, scalable, and useful
+### Backend & Database
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
 
-## Featured Projects
+### Development Tools
 
-### VitalKey Kiosk System
-- Built with **React** and **Tailwind CSS**
-- Includes authentication and verification workflows
-- Designed for clean and efficient user interaction
-
-### VitalKey Mobile Application
-- Developed with **Flutter / Dart**
-- Integrated with backend services
-- Focused on accessibility and usability
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -49,24 +108,31 @@
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Backend development and API integration
-- Improving system architecture
-- Writing clean and maintainable code
+* Building full-stack web and mobile applications
+* Backend development and REST API integration
+* Database design and management
+* Improving system architecture
+* IoT and hardware-software integration
+* Writing maintainable and organized code
 
 ---
 
-## Contact
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:dinglyivan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dinglyivan%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/bxnnybanned">
+    <img src="https://img.shields.io/badge/GitHub-bxnnybanned-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building systems that solve real-world problems.</i>
+  <b>Build. Learn. Improve.</b>
 </p>
