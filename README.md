@@ -12,21 +12,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm an IT student from the Philippines focused on full-stack development and building practical systems across web, mobile, backend, and hardware.
 
-* 🔭 Currently developing the **VitalKey System**
-* 💻 Working with **React, Flutter, Node.js, Python, and MySQL**
-* ⚙️ Interested in **Backend Development, APIs, System Architecture, and IoT**
-* 📱 Building web and mobile applications
-* 🌱 Continuously exploring new technologies and improving my development skills
+* Currently developing the **VitalKey System**
+* Working with **React, Flutter, Node.js, Python, and MySQL**
+* Interested in **Backend Development, APIs, System Architecture, and IoT**
+* Building web and mobile applications
+* Continuously exploring new technologies and improving my development skills
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🩺 VitalKey System
+### VitalKey System
 
 A healthcare platform that connects multiple applications and services into one integrated system.
 
@@ -44,7 +44,7 @@ A healthcare platform that connects multiple applications and services into one 
 
 ---
 
-### 🖥️ VitalKey Kiosk
+### VitalKey Kiosk
 
 A kiosk application for collecting and managing patient health information through connected sensors and services.
 
@@ -56,7 +56,7 @@ A kiosk application for collecting and managing patient health information throu
 
 ---
 
-### 📱 VitalKey Mobile Application
+### VitalKey Mobile Application
 
 A mobile application built with Flutter that connects patients to the VitalKey platform.
 
@@ -68,7 +68,7 @@ A mobile application built with Flutter that connects patients to the VitalKey p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -96,18 +96,17 @@ A mobile application built with Flutter that connects patients to the VitalKey p
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * Full-stack web and mobile development
 * Backend development and REST API integration
 * Database design and management
 * System architecture
 * IoT and hardware integration
-* Writing clean and maintainable code
 
 ---
 
-## 📫 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:dinglyivan@gmail.com">
@@ -116,6 +115,10 @@ A mobile application built with Flutter that connects patients to the VitalKey p
   &nbsp;
   <a href="https://github.com/bxnnybanned">
     <img src="https://img.shields.io/badge/GitHub-bxnnybanned-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/bunnyofthewall">
+    <img src="https://img.shields.io/badge/Facebook-Ivan%20Dingly-111827?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
