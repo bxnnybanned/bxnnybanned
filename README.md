@@ -14,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT student from the Philippines with a strong interest in full-stack and backend development. I enjoy building systems that combine web, mobile, hardware, and database technologies.
+I'm an IT student from the Philippines focused on full-stack development and building practical systems across web, mobile, backend, and hardware.
 
 * 🔭 Currently developing the **VitalKey System**
 * 💻 Working with **React, Flutter, Node.js, Python, and MySQL**
 * ⚙️ Interested in **Backend Development, APIs, System Architecture, and IoT**
-* 📱 Building both **web and mobile applications**
-* 🌱 Continuously improving my development and problem-solving skills
+* 📱 Building web and mobile applications
+* 🌱 Continuously exploring new technologies and improving my development skills
 
 ---
 
@@ -28,7 +28,7 @@ I'm an IT student from the Philippines with a strong interest in full-stack and 
 
 ### 🩺 VitalKey System
 
-A healthcare-focused system designed to connect multiple applications and services into one platform.
+A healthcare platform that connects multiple applications and services into one integrated system.
 
 **System Components**
 
@@ -46,7 +46,7 @@ A healthcare-focused system designed to connect multiple applications and servic
 
 ### 🖥️ VitalKey Kiosk
 
-A kiosk application designed for patient health monitoring and information management.
+A kiosk application for collecting and managing patient health information through connected sensors and services.
 
 * Patient authentication and verification
 * Health sensor integration
@@ -58,12 +58,13 @@ A kiosk application designed for patient health monitoring and information manag
 
 ### 📱 VitalKey Mobile Application
 
-A Flutter-based mobile application that connects patients with the VitalKey platform.
+A mobile application built with Flutter that connects patients to the VitalKey platform.
 
 * Built with **Flutter & Dart**
-* Connected to backend APIs
-* Patient account and health information access
-* Designed for simple and accessible mobile use
+* Backend API integration
+* Patient account management
+* Health information access
+* Mobile-focused interface
 
 ---
 
@@ -95,27 +96,25 @@ A Flutter-based mobile application that connects patients with the VitalKey plat
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bxnnybanned&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnnybanned&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxnnybanned&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bxnnybanned&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Building full-stack web and mobile applications
+* Full-stack web and mobile development
 * Backend development and REST API integration
 * Database design and management
-* Improving system architecture
-* IoT and hardware-software integration
-* Writing maintainable and organized code
+* System architecture
+* IoT and hardware integration
+* Writing clean and maintainable code
 
 ---
 
